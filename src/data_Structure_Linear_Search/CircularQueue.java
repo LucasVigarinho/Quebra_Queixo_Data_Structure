@@ -91,7 +91,47 @@ public class CircularQueue {
 			}//closing isEmpty method
 			
 			
-			
+			/** Creating display method to have a better presentation of the Stack */
+			public void display() {
+				System.out.println(" ");
+				System.out.print("         ");
+					for(int n = 0; n < circularQueue.length; n++) {
+						System.out.print(( n + "      "));
+					}//closing for loop
+				System.out.println("");
+				System.out.print("       ");
+					for(int n = 0; n < circularQueue.length; n++) {
+						System.out.print( "_____ " + " ");
+					}//closing for loop
+				System.out.println("");
+				System.out.print("      ");
+				//Creating a for loop to print out the structure of the Stack 
+					for(int i = 0; i < circularQueue.length; i++) {
+						System.out.print( "   " + circularQueue[i] + " | " );
+
+					}//closing for loop
+				System.out.println("");
+				System.out.print("       ");
+					for(int n = 0; n < circularQueue.length; n++) {
+						System.out.print( "----- " + " ");
+					}//closing for loop
+				System.out.println(" ");
+				System.out.print("      ");
+					if(tail == 0) {
+						System.out.print(("Tail="+ 0));
+					}else {
+						for(int n = 0; n < circularQueue.length; n++) {
+						System.out.print(( (n==tail)?"Tail="+ tail:"      "));
+						}//closing for loop
+					}//closing if statement
+				System.out.println("       ");
+				System.out.print("      ");
+					for(int n = 0; n < circularQueue.length; n++) {
+						System.out.print(( (n==head)?"Head="+ (head):"      "));
+					}//closing for loop
+				System.out.println(" ");
+				
+			}//closing display method
 			
 		
 			/** Create the main method */
