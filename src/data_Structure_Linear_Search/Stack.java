@@ -16,7 +16,7 @@ package data_Structure_Linear_Search;
  * 
  * 				N.B. What should the difference between pop and top be?  
  * 
- *     @Lucas_Vigarinho
+ *     @LucasVigarinho
  * */
 
 import java.util.Scanner;
