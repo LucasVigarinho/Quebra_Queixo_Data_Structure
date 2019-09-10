@@ -98,6 +98,7 @@ public class SelfOrganisingSearch {
 		while (i < arr.length && arr[i] != n) {
 			i++;
 		} // close while statement
+		
 
 		// creating an if statement to give the return number of the search
 		if (i == arr.length) {
@@ -236,15 +237,3 @@ public class SelfOrganisingSearch {
 		input.close();// closing the Scanner object
 	}// closing the main method
 }//Closing the LinearSearch class
-
-
-
-
-
-
-
-
-
-
-
-
