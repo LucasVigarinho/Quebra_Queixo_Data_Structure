@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 		
  * 		Create enqueue, dequeue, isEmpty, isFull methods, and test them in the main method
  * 
- * 		@Lucas_Vigarinho_HDC_PDS_2989295_Workbook2_Stacks_and_Queues
+ * 		@LucasVigarinho
  * */
 public class CircularQueue {
 
