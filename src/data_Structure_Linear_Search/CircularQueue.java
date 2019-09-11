@@ -10,6 +10,20 @@ import java.util.Scanner;
  * 
  * 		@LucasVigarinho
  * */
+
+/**
+ * 
+ * 	BigO Notation - TIME COMPLEXITY
+ * 	
+ * 	CircularQueue.java		Access		Search		Insertion		Deletion
+ * 		Average case - 		 O(n)		 O(n)         O(1)			  O(1)
+ * 		Worst case	 -		 O(n)		 O(n)		  O(1)            O(1)
+ * 
+ * 	BigO Notation - SPACE COMPLEXITY
+ * 		Worst case 	 -		O(n)
+ * 
+ */
+
 public class CircularQueue {
 
 

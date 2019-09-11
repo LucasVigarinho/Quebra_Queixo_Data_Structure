@@ -19,8 +19,21 @@ package data_Structure_Linear_Search;
  *     @LucasVigarinho
  * */
 
-import java.util.Scanner;
+/**
+ * 
+ * 	BigO Notation - TIME COMPLEXITY
+ * 	
+ * 	Stack.java				Access		Search		Insertion		Deletion
+ * 		Average case - 		 O(n)		 O(n)         O(1)			  O(1)
+ * 		Worst case	 -		 O(n)		 O(n)		  O(1)            O(1)
+ * 
+ * 	BigO Notation - SPACE COMPLEXITY
+ * 		Worst case 	 -		O(n)
+ * 
+ */
 
+import java.util.Scanner;
+	
 /** Created the Stack class*/ 
 public class Stack {
 	
