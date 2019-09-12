@@ -22,7 +22,18 @@ import java.util.Scanner;
  *  
  *  */
 
-
+/**
+ * 
+ * 	BigO Notation - TIME COMPLEXITY
+ * 	
+ * 	SelfOrganisingSearch.java		Access		Search		Insertion		Deletion
+ * 		Average case - 		 
+ * 		Worst case	 -		
+ * 
+ * 	BigO Notation - SPACE COMPLEXITY
+ * 		Worst case 	 -		
+ * 
+ */
 
 public class SelfOrganisingSearch {
 

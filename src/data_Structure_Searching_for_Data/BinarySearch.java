@@ -18,6 +18,19 @@ import java.util.Scanner;
  *  
  *  */
 
+/**
+ * 
+ * 	BigO Notation - TIME COMPLEXITY
+ * 	
+ * 	LinearSearch.java		Access		Search		Insertion		Deletion
+ * 		Average case - 	   O(log(n))   O(log(n))   O(log(n))	    O(log(n))
+ * 		Worst case	 -		 O(n)		 O(n)		  O(n)            O(n)
+ * 
+ * 	BigO Notation - SPACE COMPLEXITY
+ * 		Worst case 	 -		O(n)
+ * 
+ */
+
 
 public class BinarySearch {
 

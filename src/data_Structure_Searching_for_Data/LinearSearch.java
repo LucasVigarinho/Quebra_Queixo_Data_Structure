@@ -26,7 +26,18 @@ import java.util.Scanner;
  *  
  *  */
 
-
+/**
+ * 
+ * 	BigO Notation - TIME COMPLEXITY
+ * 	
+ * 	LinearSearch.java		Access		Search		Insertion		Deletion
+ * 		Average case - 	   
+ * 		Worst case	 -		
+ * 
+ * 	BigO Notation - SPACE COMPLEXITY
+ * 		Worst case 	 -		
+ * 
+ */
 
 
 /** CREATING 1.1 - A public class with the same name as the java file. */
