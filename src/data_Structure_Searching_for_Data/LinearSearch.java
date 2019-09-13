@@ -31,11 +31,11 @@ import java.util.Scanner;
  * 	BigO Notation - TIME COMPLEXITY
  * 	
  * 	LinearSearch.java		Access		Search		Insertion		Deletion
- * 		Average case - 	   
- * 		Worst case	 -		
+ * 		Average case - 	   	 O(n)		 O(n)		  O(n)			  O(n)
+ * 		Worst case	 -		 O(n)		 O(n)		  O(n)			  O(n)
  * 
  * 	BigO Notation - SPACE COMPLEXITY
- * 		Worst case 	 -		
+ * 		Worst case 	 -		O(1)
  * 
  */
 

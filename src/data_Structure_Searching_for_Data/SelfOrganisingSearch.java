@@ -26,14 +26,15 @@ import java.util.Scanner;
  * 
  * 	BigO Notation - TIME COMPLEXITY
  * 	
- * 	SelfOrganisingSearch.java		Access		Search		Insertion		Deletion
- * 		Average case - 		 
- * 		Worst case	 -		
+ * 	LinearSearch.java		Access		Search		Insertion		Deletion
+ * 		Average case - 	   	 O(n)		 O(n)		  O(n)			  O(n)
+ * 		Worst case	 -		 O(n)		 O(n)		  O(n)			  O(n)
  * 
  * 	BigO Notation - SPACE COMPLEXITY
- * 		Worst case 	 -		
+ * 		Worst case 	 -		O(1)
  * 
  */
+
 
 public class SelfOrganisingSearch {
 
