@@ -12,6 +12,18 @@ import java.util.Scanner;
  *
  */
 
+/**
+ * 
+ * 	TIME COMPLEXITY
+ * 	
+ * 	SelectionSort.java			Best(Omega)		Average(Teta)		Worst(BigO)		
+ * 		Average case - 	   	 	   (nˆ2)      		(n^2)			   (n^2)
+ * 	
+ * 
+ * 	SPACE COMPLEXITY
+ * 		Worst case 	 -		O(1)
+ * 
+ */
 
 public class SelectionSort {
 
