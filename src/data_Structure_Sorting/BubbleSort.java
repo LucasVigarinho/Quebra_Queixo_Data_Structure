@@ -12,6 +12,19 @@ package data_Structure_Sorting;
  */
 
 
+/**
+ * 
+ * 	TIME COMPLEXITY
+ * 	
+ * 	BubleSort.java			Best(Omega)		Average(Teta)		Worst(BigO)		
+ * 		Average case - 	   	 	(n)      		(n^2)			   (n^2)
+ * 	
+ * 
+ * 	SPACE COMPLEXITY
+ * 		Worst case 	 -		O(1)
+ * 
+ */
+
 import java.util.Scanner;
 
 public class BubbleSort {
