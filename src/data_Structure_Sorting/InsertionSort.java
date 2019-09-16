@@ -13,6 +13,19 @@ import java.util.Scanner;
  */
 
 
+/**
+ * 
+ * 	TIME COMPLEXITY
+ * 	
+ * 	InsertionSort.java			Best(Omega)		Average(Teta)		Worst(BigO)		
+ * 		Average case - 	   	 	   (n)      		(n^2)			   (n^2)
+ * 	
+ * 
+ * 	SPACE COMPLEXITY
+ * 		Worst case 	 -		O(1)
+ * 
+ */
+
 /** Creating the class Insertion Sort */ 
 public class InsertionSort {
 
